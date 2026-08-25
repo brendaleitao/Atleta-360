@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+*.pyc
+atleta360.db
+.vscode/

@@ -1,43 +1,45 @@
-# Atleta360
+# Atleta360 — Sistema de Gerenciamento de Atletas
 
-Sistema de gerenciamento de atletas desenvolvido em Python com SQLite.
+Aplicação desenvolvida em **Python** com **SQLite** para cadastro e gerenciamento de informações de atletas.
 
-## Sobre o projeto
+## 📌 Sobre o projeto
 
-O Atleta360 é um projeto desenvolvido para praticar conceitos fundamentais de programação em Python e banco de dados.
+O Atleta360 é um projeto desenvolvido durante a formação em **Análise e Desenvolvimento de Sistemas (ADS)**, com o objetivo de aplicar na prática conceitos de programação, banco de dados, operações CRUD e organização de projetos.
 
-O sistema permite cadastrar, consultar, atualizar e excluir atletas.
+A aplicação possui uma interface baseada em terminal e permite ao usuário cadastrar, listar, atualizar e excluir informações de atletas.
 
-## Funcionalidades
+## ⚙️ Funcionalidades
 
-- Cadastro de atletas
-- Listagem de atletas
-- Atualização de atletas
-- Exclusão de atletas
-- Armazenamento dos dados em banco SQLite
-- Menu interativo no terminal
+- Cadastro de atletas;
+- Listagem de atletas cadastrados;
+- Atualização de dados dos atletas;
+- Exclusão de atletas;
+- Armazenamento persistente utilizando SQLite;
+- Menu interativo no terminal.
 
-## Dados do atleta
+## 👤 Dados cadastrados
 
 Cada atleta possui:
 
-- ID
-- Nome
-- Data de nascimento
-- Categoria
-- Posição
+- ID;
+- Nome;
+- Data de nascimento;
+- Categoria;
+- Posição.
 
-## Tecnologias utilizadas
+## 🛠️ Tecnologias utilizadas
 
-- Python
-- SQLite
-- Git
-- GitHub
-- Visual Studio Code
+- **Python** — desenvolvimento da aplicação;
+- **SQLite** — armazenamento persistente dos dados;
+- **SQL** — criação e manipulação dos registros;
+- **Git** — controle de versão;
+- **GitHub** — hospedagem e versionamento do projeto;
+- **Visual Studio Code** — ambiente utilizado no desenvolvimento.
 
-## Como executar
+## 📁 Estrutura do projeto
 
-### 1. Clonar o projeto
-
-```bash
-git clone URL_DO_REPOSITORIO
+```text
+Atleta360/
+├── main.py        # Código principal da aplicação
+├── README.md      # Documentação do projeto
+└── .gitignore     # Arquivos ignorados pelo Git

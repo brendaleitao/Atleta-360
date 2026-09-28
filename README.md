@@ -43,3 +43,14 @@ Atleta360/
 ├── main.py        # Código principal da aplicação
 ├── README.md      # Documentação do projeto
 └── .gitignore     # Arquivos ignorados pelo Git
+```
+
+## 🚀 Como executar
+
+1. Clone o repositório: `git clone https://github.com/brendaleitao/Atleta-360.git`
+2. Acesse a pasta do projeto: `cd Atleta-360`
+3. Execute o programa: `python main.py`
+
+## 👩‍💻 Autora
+
+Desenvolvido por [Brenda Leitão](https://github.com/brendaleitao), durante a graduação em Análise e Desenvolvimento de Sistemas.
